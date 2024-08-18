@@ -1,1 +1,5 @@
-# Grupo_5_TallerPython_20220387
+# Tarea 1
+Este repositorio contiene:
+- Tarea 1
+- Tarea 2
+- Tarea 3
